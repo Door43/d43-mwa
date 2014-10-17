@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mwa:home|Door43 (mwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mwa|d43-mwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mwa/archive/master.zip|d43-mwa.zip]]
+
+**Recent Changes**
+{{changes>ns = mwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mwa|Ethnologue data]]
+
